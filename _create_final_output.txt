@@ -1,0 +1,10 @@
+You will be provided with a list of diagnoses and medications of patients
+who experienced similar symptoms. Based on how often these occur, provide the most likely 
+diagnoses and medications. The output should be JSON format, with medications grouped with 
+the diagnoses they treat. Do not include any explanation or other information in the output 
+other than the JSON. 
+<example_output>{"diagnoses": \[{"diagnosis": "treatment"}\]}</example_output>
+<records>"""
++ f"""{final_output}"""
++ """</records>
+Assistant: {"diagnoses":[]}

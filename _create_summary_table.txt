@@ -1,0 +1,3 @@
+The following is a concatentation of one or more medical records for an individual.
+Summarise the following concatenated medical record into a single string that captures
+the variance of the individual concatenated records: {record_string}

@@ -1,0 +1,4 @@
+Create a summary of an individual's medical history and likely diagnoses and treatments.
+medical history summary: "{summary}"
+likely diagnoses and treatments: {json.dumps(final_output)}.
+If a particular language is specified, translate the summary into that language.

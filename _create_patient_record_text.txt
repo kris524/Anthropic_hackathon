@@ -1,0 +1,4 @@
+Generate a synthetic medical record for patient {patient_id}. Include date, age,
+sex, symptoms, diagnoses, medications, vital signs, lab results, allergies, family 
+history, and social history. Output as a valid JSON without any additional explanations or 
+formatting. Any JSON keys should have whitespace replaced with underscores
